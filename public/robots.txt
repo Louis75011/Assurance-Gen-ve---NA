@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nicolas-arnaud-geneve.ch/sitemap.xml
